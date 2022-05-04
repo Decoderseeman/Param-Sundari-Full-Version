@@ -150,7 +150,7 @@ Helps you to know your ping 🚶🏼‍♂️
 • /ping - To get your ping.
 • /repo - Source Code.
 • /channel - Channel Details.
-• /ajax - Bot Link.
+• /param - Bot Link.
 <b>🏹Usage🏹 :</b>
 
 • This commands can be used in pms and groups
@@ -173,7 +173,7 @@ Do as you wish with telegra.ph module!
 <b>›› 𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝙰 𝙱𝙾𝚃 𝚂𝙰𝙼𝙴 𝙻𝙸𝙺𝙴 𝚃𝙷𝙸𝚂</b>
 <b>›› 𝚆𝙸𝚃𝙷 𝙰𝙻𝙻 𝚈𝙾𝚄𝚁 𝙲𝚁𝙴𝙳𝙸𝚃𝚂</b>
 <b>›› 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁𝚂𝙷𝙸𝙿</b>
-<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/Aadhi011>𝙰𝙰𝙳𝙷𝙸</a></b>"""
+<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/mastertheblasterr>❣️∂εcσ∂εɾ รεεɱαɳ❣️</a></b>"""
 
     JSON_TXT ="""<b>JSON:</b>
 
