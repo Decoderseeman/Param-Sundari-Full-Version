@@ -44,8 +44,8 @@ async def channel(_, message):
     await message.reply_text(CHANNEL)
 
 
-@Client.on_message(filters.command("ajax", COMMAND_HAND_LER) & f_onw_fliter)
-async def ajax(_, message):
-    await message.reply_text(AJAX)
+@Client.on_message(filters.command("param", COMMAND_HAND_LER) & f_onw_fliter)
+async def param(_, message):
+    await message.reply_text(PARAM)
 
 
