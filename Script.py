@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b>👋𝙷𝙴𝙻𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙰 𝙿𝙾𝚆𝙴𝚁𝙵𝚄𝙻𝙻 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙱𝙾𝚃 𝚆𝙸𝚃𝙷 𝙳𝙰𝚉𝚉𝙻𝙸𝙽𝙶 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂... 𝙷𝙴𝚁𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝚂𝚄𝚁𝙴 𝙸'𝙼 𝙰𝙽 𝙰𝙳𝙼𝙸𝙽 𝚃𝙷𝙴𝚁𝙴 ' 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 𝙼𝚈 𝙿𝙴𝚅𝙴𝚁 𝚂𝙷𝙾𝚆....!! 💕😍 ♥️♥️
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙰𝙼 𝙿𝙾𝚆𝙴𝚁𝙵𝚄𝙻𝙻 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙱𝙾𝚃 𝚆𝙸𝚃𝙷 𝙳𝙰𝚉𝚉𝙻𝙸𝙽𝙶 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂... 𝙷𝙴𝚁𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝚂𝚄𝚁𝙴 𝙸'𝙼 𝙰𝙽 𝙰𝙳𝙼𝙸𝙽 𝚃𝙷𝙴𝚁𝙴 ' 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 𝙼𝚈 𝙿𝙴𝚅𝙴𝚁 𝚂𝙷𝙾𝚆....!! 💕😍 ♥️♥️
 
 💡 𝐌𝐘 𝐎𝐖𝐍𝐄𝐑 : ☞ <a href=https://t.me/mastertheblasterr>❣️∂εcσ∂εɾ รεεɱαɳ❣️</a></b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
@@ -12,8 +12,8 @@ class script(object):
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
-<b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/mkv_rockers>𝚃𝙴𝙰𝙼 𝚁𝙾𝙲𝙺𝙴𝚁𝚂</a></b>
-<b>✮ 𝙼𝙾𝚅𝙸𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://t.me/mkv_rockers>𝙼𝙺𝚅 𝚁𝙾𝙲𝙺𝙴𝚁𝚂</a></b>"""
+<b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/mkv_blasters>𝚃𝙴𝙰𝙼 𝚁𝙾𝙲𝙺𝙴𝚁𝚂</a></b>
+<b>✮ 𝙼𝙾𝚅𝙸𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://t.me/mkv_blasters>𝙼𝙺𝚅 𝙱𝙻𝙰𝚂𝚃𝙴𝚁𝚂</a></b>"""
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
@@ -59,9 +59,9 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/Mkv_rockers/3 https://t.me/Mkv_rockers/8</code>
+<code>/batch https://t.me/Mkv_blasters/3 https://t.me/Mkv_blasters/8</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Mkv_rockers><b>𝚃𝙴𝙰𝙼 𝚁𝙾𝙲𝙺𝙴𝚁𝚂</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Mkv_blasters><b>𝚃𝙴𝙰𝙼 𝚁𝙾𝙲𝙺𝙴𝚁𝚂</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
