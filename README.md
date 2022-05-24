@@ -6,7 +6,7 @@
 </h1>
 
 <a href="https://t.me/mkv_blasters">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
+  <img src="https://img.shields.io/badge/𝙹𝙾𝙸𝙽 𝙽𝙾𝚆-black?logo=youtube" width="150">
 
 
 [![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/stargazers)
