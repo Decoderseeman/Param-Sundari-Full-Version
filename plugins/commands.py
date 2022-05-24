@@ -41,13 +41,17 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ 𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🎯 𝗠𝗼𝘃𝗶𝗲𝘀 🎯', url='https://t.me/Mkv_rockers'),
-            InlineKeyboardButton('🎟️ 𝗦𝗲𝗿𝗶𝗲𝘀 🎟️', url='https://t.me/mkvserieshub')
-            ],[      
-            InlineKeyboardButton('ℹ️ 𝗛𝗲𝗹𝗽 ℹ️', callback_data='help'),
-            InlineKeyboardButton('🍻 𝗔𝗯𝗼𝘂𝘁 🍻', callback_data='about')
+            InlineKeyboardButton('🎯 𝗛𝗗 𝗠𝗼𝘃𝗶𝗲𝘀 🎯', url='https://t.me/Mkv_blasters'),
             ],[
-            InlineKeyboardButton('🍿 𝗠𝗼𝘃𝗶𝗲 𝗖𝗹𝘂𝗯 🍿', url='https://t.me/mkvrequestroom')
+            InlineKeyboardButton('💿 𝗣𝗥𝗘 𝗗𝗩𝗗 💿', url='https://t.me/mkv_predvdhub')
+            ],[
+            InlineKeyboardButton('🎟️ 𝗦𝗲𝗿𝗶𝗲𝘀 🎟️', url='https://t.me/mkv_serieshub'),
+            ],[      
+            InlineKeyboardButton('ℹ️ 𝗛𝗲𝗹𝗽 ℹ️', callback_data='help')
+            ],[
+            InlineKeyboardButton('🍻 𝗔𝗯𝗼𝘂𝘁 🍻', callback_data='about'),
+            ],[
+            InlineKeyboardButton('🍿 𝗠𝗼𝘃𝗶𝗲 𝗖𝗹𝘂𝗯 🍿', url='https://t.me/mkv_requestroom')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
