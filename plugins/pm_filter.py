@@ -748,12 +748,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ 𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🎯 𝗠𝗼𝘃𝗶𝗲𝘀 🎯', url='https://t.me/mkv_rockers'),
-            InlineKeyboardButton('🎟️ 𝗦𝗲𝗿𝗶𝗲𝘀 🎟️', url='https://t.me/mkvserieshub')
-            ],[      
-            InlineKeyboardButton('ℹ️ 𝗛𝗲𝗹𝗽 ℹ️', callback_data='help'),
-            InlineKeyboardButton('🍻 𝗔𝗯𝗼𝘂𝘁 🍻', callback_data='about')
+            InlineKeyboardButton('💿 𝗣𝗥𝗘 𝗗𝗩𝗗 💿',url='https://t.me/mkv_predvhub')
             ],[
-            InlineKeyboardButton('🍿 𝗠𝗼𝘃𝗶𝗲 𝗖𝗹𝘂𝗯 🍿', url='https://t.me/mkvrequestroom')
+            InlineKeyboardButton('🎟️ 𝗦𝗲𝗿𝗶𝗲𝘀 🎟️', url='https://t.me/mkv_serieshub'),
+            InlineKeyboardButton('ℹ️ 𝗛𝗲𝗹𝗽 ℹ️', callback_data='help')
+            ],[
+            InlineKeyboardButton('🍻 𝗔𝗯𝗼𝘂𝘁 🍻', callback_data='about'),
+            InlineKeyboardButton('🍿 𝗠𝗼𝘃𝗶𝗲 𝗖𝗹𝘂𝗯 🍿', url='https://t.me/mkv_requestroom')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -890,7 +891,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('♥️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ♥️', url='https://t.me/mastertheblasterr')
+            InlineKeyboardButton('♥️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ♥️', url=')
             ],[
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝙲𝙻𝙾𝚂𝙴 🔐', callback_data='close_data')
